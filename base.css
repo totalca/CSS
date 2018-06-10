@@ -38,9 +38,9 @@ body {
 	--color-text: #fff;
 	--color-bg: #101010;
         --color-link: #fff;
-	--color-link-hover: #ffffff;
-	--color-info: #gggggg;
-	border-left: 4rem solid #181819;
+	--color-link-hover: #7b7b7b;
+	--color-info: #7b7b7b;
+	border-left: 4rem solid #ffffff;
 }
 
 /* Fade effect */

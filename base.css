@@ -162,7 +162,6 @@ main {
 /* Header */
 .codrops-header {
 	position: relative;
-	background-color: #fff;
 	z-index: 100;
 	align-self: start;
 	grid-area: header;

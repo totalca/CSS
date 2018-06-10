@@ -37,6 +37,7 @@ body {
 .demo-2 {
 	--color-text: #fff;
 	--color-bg: #101010;
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/J9H9WF0/glowing-yellow-white-dot-particles-flickering-on-a-dark-black-background-imitating-a-night-sky-full-of-stars_scuh-8tr_thumbnail-full01.png");
         --color-link: #fff;
 	--color-link-hover: #7b7b7b;
 	--color-info: #7b7b7b;

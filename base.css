@@ -266,6 +266,7 @@ a.demo--current {
 	}
 	.codrops-header__title {
 		font-weight: bold;
+		background-color: #fff;
 		padding-bottom: 0.25em;
 		text-align: center;
 		transform: none;

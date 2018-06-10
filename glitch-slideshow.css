@@ -48,7 +48,7 @@
 }
 
 .slide:first-child .slide__text {
-	color: #F2A104;
+	color: #ECF0F3;
 }
 
 .slide:nth-child(2) .slide__text {
@@ -56,11 +56,11 @@
 }
 
 .slide:nth-child(3) .slide__text {
-	color: #E5743C;
+	color: #F2A104;
 }
 
 .slide:nth-child(4) .slide__text {
-	color: #ECF0F3;
+	color: #E5743C;
 }
 
 .slide:nth-child(5) .slide__text {

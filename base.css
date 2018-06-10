@@ -36,9 +36,9 @@ body {
 
 .demo-2 {
 	--color-text: #fff;
-	background: #BBD2C5;
-        background: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5);
-        background: linear-gradient(to right, #292E49, #536976, #BBD2C5);
+        background: #fdfbfb;
+        background: -webkit-linear-gradient(to right, #fdfbfb, #ebedee);
+        background: linear-gradient(to right, #fdfbfb, #ebedee);
 	--color-link: #fff;
 	--color-link-hover: #7b7b7b;
 	--color-info: #7b7b7b;

@@ -162,6 +162,7 @@ main {
 /* Header */
 .codrops-header {
 	position: relative;
+	background-color: #fff;
 	z-index: 100;
 	align-self: start;
 	grid-area: header;
@@ -173,7 +174,6 @@ main {
 
 .codrops-header__title {
 	font-size: 1em;
-	background-color: #fff;
 	font-weight: bold;
 	margin: 0;
 	padding: 1.75em 0;
@@ -266,7 +266,6 @@ a.demo--current {
 	}
 	.codrops-header__title {
 		font-weight: bold;
-		background-color: #fff;
 		padding-bottom: 0.25em;
 		text-align: center;
 		transform: none;

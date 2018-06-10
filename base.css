@@ -283,8 +283,4 @@ a.demo--current {
 		float: none;
 		width: auto;
 	}
-	.demo-1 {
-		--color-link-hover: #fff;
-		--color-info: #fff;
-	}
 }
